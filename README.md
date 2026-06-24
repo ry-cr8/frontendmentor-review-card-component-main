@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-component-4aYKsVY19g)
+- Live Site URL: [Add live site URL here](https://ry-cr8.github.io/frontendmentor-review-card-component-main/)
 
 ## My process
 
@@ -45,4 +45,4 @@ What I learned from this challenge was how to create an image overlay that appea
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ry-cr8](https://www.frontendmentor.io/profile/ry-cr8)
