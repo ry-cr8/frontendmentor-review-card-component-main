@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
 body {
   margin: 0;
   background-color: hsl(217, 54%, 11%);
@@ -12,6 +13,10 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
+
+  /* Responsiveness */
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .main-container-card {
@@ -35,6 +40,10 @@ main {
   margin: 0 20px;
   border-radius: 5px;
   display: block;
+
+  /* Responsiveness */
+  max-width: calc(100% - 40px);
+  height: auto;
 }
 
 .overlay {
@@ -144,4 +153,11 @@ span.author-name {
 
 .author-name:hover {
   color: hsl(178, 100%, 50%);
+}
+
+/* Desktop (1440px and above) */
+@media (min-width: 1440px) {
+  .main-container-card {
+    max-width: 350px;
+  }
 }
